@@ -19,3 +19,20 @@ Atividade realizada em sala para fazer uma correção de um site php, com conex�
 ## Login padrão
 - Usuário: admin
 - Senha: 123456
+
+## Telas do sistema
+
+### Login
+![Login](prints/login.png)
+
+### Produtos
+![Produtos](prints/produtos.png)
+
+### Usuários
+![Usuários](prints/usuarios.png)
+
+### Pedidos
+![Pedidos](prints/pedidos.png)
+
+### Banco de dados
+![PgAdmin](prints/pgadmin_produto.png)
